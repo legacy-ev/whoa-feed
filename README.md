@@ -1,2 +1,3 @@
-# whoa-feed
-Public daily feed files for the Whoa phone app. Safe to be public.
+# Whoa daily feed
+
+Public JSON the Whoa app fetches on launch. Updated by the control room publish job.
